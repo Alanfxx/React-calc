@@ -5,9 +5,7 @@ import Calculator from './main/Calculator';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <div>
-    <Calculator />
-  </div>,
+  <Calculator />,
   document.getElementById('root')
 );
 
